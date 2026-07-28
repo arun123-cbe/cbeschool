@@ -1,0 +1,6 @@
+{
+  "name": "Search, Social & Systems",
+  "description": "A professional landing and checkout page for the digital marketing guide 'Search, Social & Systems' by Arun Gowtham Prabhudas, featuring secure payment processing and automated ebook download delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
